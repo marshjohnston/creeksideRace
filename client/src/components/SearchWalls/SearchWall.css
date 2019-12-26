@@ -1,0 +1,80 @@
+.searchTitle {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#resultsSection{
+    margin-top:50px;
+}
+
+.panel-primary{
+    border-color: #f5f5f5;
+    overflow: hidden;
+
+}
+.panel-primary .panel-heading{
+    background-color:lightgray;
+}
+
+.results{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.searchWallBtn {
+    margin-top: 33px; 
+    color: white; 
+    background-color: #E81E17;
+    border: solid 1px #E81E17; 
+}
+
+.searchWallBtn:hover, .searchWallBtn:focus {
+    margin-top: 33px; 
+    color: white; 
+    background-color: #E81E17;
+    border: solid 1px #E81E17; 
+}
+
+.searchWallBtn:active {
+    margin-top: 33px; 
+    color: white; 
+    background-color: #E81E17;
+    border: solid 1px #E81E17; 
+}
+
+.searchWallBtn:visited {
+    margin-top: 33px; 
+    color: white; 
+    background-color: #E81E17;
+    border: solid 1px #E81E17; 
+}
+
+.searchWallBtn:link {
+    margin-top: 33px; 
+    color: white; 
+    background-color: #E81E17;
+    border: solid 1px #E81E17; 
+}
+
+.inputRows {
+    margin: 0 auto; 
+}
+ 
+#searchItem .searchRange .searchArea { 
+    height: 3.8rem; 
+
+}
+
+.panel-title { 
+    color: white; 
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.results {
+    background: #38425B; 
+    /* border-radius: 3px;  */
+}
+
